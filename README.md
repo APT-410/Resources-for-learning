@@ -2,6 +2,8 @@
 
 Hi this is just a simple set of learning paths and tricks I found, this is a quick list and is broken out into some sub paths. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
 
+Check out the website here: [Link](https://apt-0.github.io/Resources-for-learning/)
+
 ## Programming
 
 ### Python
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://apt-0.github.io/Resources-for-learning/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
