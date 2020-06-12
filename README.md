@@ -17,9 +17,10 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   - [Regular Expressions - testing: regex101](https://regex101.com/)
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/)
 
-## Offensive
+## Red Team
+- [Hands on learning game style - Tryhackme](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
 
-## Defensive
+## Blue Team
 
   ### Forensics
   ### Security Engineering
