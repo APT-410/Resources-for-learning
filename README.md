@@ -12,6 +12,9 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 
   ### C++
   (To be added)
+  
+  ### Other
+  [Regular Expressions: regex101](https://regex101.com/)
 
 ## Offensive
 
