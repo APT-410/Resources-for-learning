@@ -8,9 +8,9 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
 
   ### Python
   #### Websites
-  - [Offical python site for getting started and tutorials](https://www.python.org/about/gettingstarted/)
+  - [Offical python site for getting started and tutorials](https://www.python.org/about/gettingstarted/) <-- This is a great place to get started, goes over different text editors, has a link to python libraries, tutorials etc.
   #### Books
-  - [(Free)(General python - Great for beginning through some experienced) "Automate the boring stuff"](https://automatetheboringstuff.com/)
+  - [(Free)(General python - Great for beginning through some experienced) "Automate the boring stuff"](https://automatetheboringstuff.com/) <-- Great for some practical challenges and beginning to write some code
   #### Cheat sheets
   - [Python cheat sheet](https://github.com/APT-0/python-cheatsheet)
 
