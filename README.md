@@ -7,7 +7,9 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 ## Programming
 
   ### Python
-  - [Book: (General python - Great for beginning through some experienced) "Automate the boring stuff"](https://automatetheboringstuff.com/)
+  #### Books
+  - [(Free)(General python - Great for beginning through some experienced) "Automate the boring stuff"](https://automatetheboringstuff.com/)
+  #### Cheat sheets
   - [Python cheat sheet](https://github.com/APT-0/python-cheatsheet)
 
   ### C++
