@@ -24,6 +24,8 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 ## Blue Team
 
   ### Forensics
+  #### Host 
+  #### Network
   ### Security Engineering
   ### Detection Engineering
 
