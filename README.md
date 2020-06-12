@@ -35,7 +35,7 @@ These are just a few cool things that helped me learn, and search for answers qu
 1. Start a library of all your code or projects, Github is the easiest way to share all your cool projects once you have a few.
 2. Get google drive and store PDFs from sites like humble bundle, every 3ish weeks they will come out with a new bundle of about 12ish books on topics from Python, to web application hacking or focused on linux only for $5-$15, just pick the ones you want to learn now or a later date. You can search the contents of all your books for keywords to quickly search hundreds of books in google drive at only $2 a month for 100GB.
 3. Make a plan of what your goal is and layout what you want to learn, in small blocks of time each day maybe an hour or two focus on a book, website or another source to learn. Personally I think its difficult to learn if you arent doing what you want to learn hands on.
-4. Join peer groups for your learning interest, I really like the app Discord and will have tons of people willing to mentor you. Just search for the group and join.
+4. Join peer groups for your learning interest, I really like the app Discord and will have tons of people willing to mentor you. Just search for a group and join.
 
 
 
