@@ -18,7 +18,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/)
 
 ## Red Team
-- [Hands on learning game style - Tryhackme](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
+- [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
 
 ## Blue Team
 
