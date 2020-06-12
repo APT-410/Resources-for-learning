@@ -13,6 +13,9 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   ### C++
   (To be added)
   
+  ### Javascript
+  -[Hacking javascript - Javascript untrusted](https://alexnisnevich.github.io/untrusted/)
+  
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
   - [Decode / Encode: Cyberchef.io](https://gchq.github.io/CyberChef/) 
