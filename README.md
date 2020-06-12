@@ -28,5 +28,8 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 ## General IT
   ### Linux
 
+## Learning Tips 
+1. Start a library of all your code or projects, Github is the easiest way to share and find cool things to use or contribute to.
+
 
 
