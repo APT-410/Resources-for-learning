@@ -29,7 +29,9 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   ### Linux
 
 ## Learning Tips 
-1. Start a library of all your code or projects, Github is the easiest way to share and find cool things to use or contribute to.
+1. Start a library of all your code or projects, Github is the easiest way to share all your cool projects once you have a few.
+2. Get google drive and store PDFs from sites like humble bundle, every 3ish weeks they will come out with a new bundle of about 12ish books on topics from Python, to web application hacking or focused on linux only for $5-$15. You can search the contents of all your books for keywords to quickly search hundreds of books in google drive at only $2 a month for 100GB.
+3. Make a plan of what your goal is and layout what you want to learn, in small blocks of time each day maybe an hour or two focus on a book, website or another source to learn. Personally I think its difficult to learn if you arent doing what you want to learn hands on.
 
 
 
