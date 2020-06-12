@@ -15,7 +15,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
-  - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/)
+  - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/) <-- Theres other text editors and IDEs like Atom, sublime, eclipse. VScode is my favorite as extension make adding new programming languages easy and add on almost anything else you can imagine to help from running a live server, debugging, dev containers, live share "peer" program
 
 ## Red Team
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
