@@ -1,12 +1,10 @@
 # Learning resources for programming, security and general IT
 
-Hi this is just a simple set of paths I was interested in at some point and wanted to just compile a list of good resources and break out some learning paths. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
+Hi this is just a simple set of learning paths and tricks I found, this is a quick list and is broken out into some sub paths. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
 
-You can use the [editor on GitHub](https://github.com/APT-0/Resources-for-learning/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Programming
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Python
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
