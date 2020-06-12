@@ -30,10 +30,3 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 
 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-
