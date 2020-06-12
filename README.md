@@ -14,7 +14,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   (To be added)
   
   ### Other
-  [Regular Expressions - testing: regex101](https://regex101.com/)
+  - [Regular Expressions - testing: regex101](https://regex101.com/)
 
 ## Offensive
 
