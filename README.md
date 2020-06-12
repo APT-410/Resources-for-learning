@@ -7,6 +7,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 ## Programming
 
   ### Python
+  - [Python cheat sheet](https://github.com/APT-0/python-cheatsheet)
 
   ### C++
   (To be added)
