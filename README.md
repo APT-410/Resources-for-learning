@@ -6,21 +6,21 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 
 ## Programming
 
-### Python
+  ### Python
 
-### C++
-(To be added)
+  ### C++
+  (To be added)
 
 ## Offensive
 
 ## Defensive
 
-### Forensics
-### Security Engineering
-### Detection Engineering
+  ### Forensics
+  ### Security Engineering
+  ### Detection Engineering
 
 ## General IT
-### Linux
+  ### Linux
 
 
 
