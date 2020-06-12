@@ -11,14 +11,18 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 ### C++
 (To be added)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Offensive
 
-```markdown
-Syntax highlighted code block
+## Defensive
 
-# Header 1
-## Header 2
-### Header 3
+### Forensics
+### Security Engineering
+### Detection Engineering
+
+## General IT
+### Linux
+
+
 
 - Bulleted
 - List
@@ -26,17 +30,4 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](https://apt-0.github.io/Resources-for-learning/) and ![Image](https://images.freeimages.com/images/large-previews/93e/business-book-and-glasses-1-1241387.jpg)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/APT-0/Resources-for-learning/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
