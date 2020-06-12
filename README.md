@@ -23,6 +23,8 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
 
 ## Red Team
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
+### Books
+
 
 ## Blue Team
 
