@@ -1,4 +1,4 @@
-# Learning resources for programming, security and general IT
+# Learning resources frequent tools for programming, security and general IT
 
 Hi this is just a simple set of learning paths and tricks I found, this is a quick list and is broken out into some sub paths. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
 
