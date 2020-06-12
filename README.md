@@ -15,6 +15,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
+  - [Decode / Encode: Cyberchef.io](https://gchq.github.io/CyberChef/) 
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/) <-- Theres other text editors and IDEs like Atom, sublime, eclipse. VScode is my favorite as extension make adding new programming languages easy and add on almost anything else you can imagine to help from running a live server, debugging, dev containers, live share "peer" program
 
 ## Red Team
