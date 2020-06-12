@@ -21,9 +21,12 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   - [Decode / Encode: Cyberchef.io](https://gchq.github.io/CyberChef/) 
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/) <-- Theres other text editors and IDEs like Atom, sublime, eclipse. VScode is my favorite as extensions make adding new programming languages easy and add on almost anything else you can imagine to help from running a live server, debugging, dev containers, live share "peer" program, docker to build and ship your apps.
 
-## Red Team
+## Red Team / Pen Test
+### Websites
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
 ### Books
+### Tools
+
 
 
 ## Blue Team
