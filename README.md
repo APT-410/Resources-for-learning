@@ -15,7 +15,7 @@ Hi this is just a simple set of learning paths and tricks I found, this is a qui
   
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
-  - [IDE/Text editor - Development enviroment (VScode)](https://code.visualstudio.com/)
+  - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/)
 
 ## Offensive
 
