@@ -1,6 +1,6 @@
 # Learning resources & frequent tools for programming, security and general IT
 
-Hi this is just a simple set of learning paths and tricks I found to help me, this is a quick list and is broken out into some sub paths. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
+Hi this is just a simple set of learning paths and tricks I found to help me, this is a quick list and is broken out into some sub paths. As there is so much content I will update when I can. If you have suggestions feel free to comment or create an issue or pull request. This can be openly shared and modified.
 
 [Click here to check this out in the website](https://apt-0.github.io/Resources-for-learning/)
 
@@ -28,11 +28,27 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/) <-- Theres other text editors and IDEs like Atom, sublime, eclipse. VScode is my favorite as extensions make adding new programming languages easy and add on almost anything else you can imagine to help from running a live server, debugging, dev containers, live share "peer" program, docker to build and ship your apps.
 
 ## Red Team / Pen Test
-### Websites
+### General
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
-### Books
-### Tools
 
+### Web Application Testing
+I defintely recommend first before using the tools section learn the techniques in the owasp top 10 and manually exploit first, tools can help but many times you may not be able to use them in rule of engagement with bug bounties.
+#### Books
+- [Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
+- [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+
+#### Tools (Many come with Kali)
+- [Vulnerable Enviroment: Web Goat](https://owasp.org/www-project-webgoat/)
+- OWASP ZAP
+- Burpsuite
+- Nmap
+- SQLmap 
+- Foca
+- Fiddler (Windows only)
+- Nikto
+
+### General
+- [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
 
 
 ## Blue Team
