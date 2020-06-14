@@ -46,6 +46,8 @@ I defintely recommend first before using the tools section learn the techniques 
 - Foca
 - Fiddler (Windows only)
 - Nikto
+- Shodan.io
+
 
 ### General
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
