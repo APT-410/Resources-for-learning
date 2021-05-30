@@ -31,6 +31,10 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
 ### General
 - [Hands on learning game style - Tryhackme.com](https://tryhackme.com/) <-- This is personally one of my favorite websites there are complete virtual machines on here that can get you started with learning basic linux commands, python, hacking, networking, and some blue team functions.
 
+### General Pentest
+#### Authentication attacks
+- [Attacking active directory 0 - 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
+
 ### Web Application Testing
 I defintely recommend first before using the tools section learn the techniques in the owasp top 10 and manually exploit first, tools can help but many times you may not be able to use them in rule of engagement with bug bounties.
 #### Books
