@@ -23,7 +23,8 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
   -[Hacking javascript - "untrusted"](https://alexnisnevich.github.io/untrusted/)
   
   ### Machine Learning / Deep learning / Neural networks
-  -[Fast.ai (pyTorch Deep learning)](https://www.fast.ai/)
+  -[Fast.ai (pyTorch Deep learning)](https://www.fast.ai/) <-- Machine/Deep learning course
+  -[Deeplizard](https://deeplizard.com/) <-- Machine/Deep learning course
   
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
@@ -38,6 +39,11 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
 ### General Pentest
 #### Authentication attacks
 - [Attacking active directory 0 - 0.9](https://zer1t0.gitlab.io/posts/attacking_ad/)
+
+#### Command and Control
+- [Understanding C2 Frameworks](https://nasbench.medium.com/understanding-detecting-c2-frameworks-ares-8c96aa47e50d)
+- [The C2 matrix](https://www.thec2matrix.com/matrix) <-- List of some of the most popular C2 Frameworks, with links to the frameworks
+  - [SANS Slingshot C2 Matrix](https://howto.thec2matrix.com/slingshot-c2-matrix-edition) <-- VM of several C2 frameworks   
 
 ### Web Application Testing
 I defintely recommend first before using the tools section learn the techniques in the owasp top 10 and manually exploit first, tools can help but many times you may not be able to use them in rule of engagement with bug bounties.
@@ -66,6 +72,8 @@ I defintely recommend first before using the tools section learn the techniques 
 ## Blue Team
 
   ### Forensics
+  #### Reverse Engineering
+  - [Malware.re](https://class.malware.re/) <-- Reverse engineering class and content
   #### Host 
   #### Network
   ### Security Engineering
