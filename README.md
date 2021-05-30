@@ -20,11 +20,11 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
   (To be added)
   
   ### Javascript
-  -[Hacking javascript - "untrusted"](https://alexnisnevich.github.io/untrusted/)
+  - [Hacking javascript - "untrusted"](https://alexnisnevich.github.io/untrusted/)
   
   ### Machine Learning / Deep learning / Neural networks
-  -[Fast.ai (pyTorch Deep learning)](https://www.fast.ai/) <-- Machine/Deep learning course
-  -[Deeplizard](https://deeplizard.com/) <-- Machine/Deep learning course
+  - [Fast.ai (pyTorch Deep learning)](https://www.fast.ai/) <-- Machine/Deep learning course
+  - [Deeplizard](https://deeplizard.com/) <-- Machine/Deep learning course
   
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
@@ -94,7 +94,7 @@ I defintely recommend first before using the tools section learn the techniques 
 ## Learning Tips 
 These are just a few cool things that helped me learn, and search for answers quickly.
 1. Start a library of all your code or projects, Github is the easiest way to share all your cool projects once you have a few.
-2. Get google drive and store PDFs from sites like humble bundle, every 3ish weeks they will come out with a new bundle of about 12ish books on topics from Python, to web application hacking or focused on linux only for $5-$15, just pick the ones you want to learn now or a later date. You can search the contents of all your books for keywords to quickly search hundreds of books in google drive at only $2 a month for 100GB.
+2. Get google drive or OneDrive and store PDFs from sites like humble bundle, every 3ish weeks they will come out with a new bundle of about 12ish books on topics from Python, to web application hacking or focused on linux only for $5-$15, just pick the ones you want to learn now or a later date. You can search the contents of all your books for keywords to quickly search hundreds of books in google drive at only $2 a month for 100GB.
 3. Make a plan of what your goal is and layout what you want to learn, in small blocks of time each day maybe an hour or two focus on a book, website or another source to learn. Personally I think its difficult to learn if you arent doing what you want to learn hands on.
 4. Join peer groups for your learning interest, I really like the app Discord and will have tons of people willing to mentor you. Just search for a group and join. Learning these topics is often a very solo activity however, some good friends can help guide you alittle more and help when you're stuck.
 
