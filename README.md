@@ -70,6 +70,15 @@ I defintely recommend first before using the tools section learn the techniques 
   #### Network
   ### Security Engineering
   ### Detection Engineering
+  
+## Purple Team
+
+  ### Lab Builds
+  Check this out to understand alittle more on chosing your lab build -> https://medium.com/@darkcaracal/building-a-free-threat-hunting-lab-for-testing-detections-and-ttps-in-5-minutes-1d216cc9d419
+  - [Defensive Origins](https://github.com/DefensiveOrigins/APT-Lab-Terraform)
+  - [Detection Lab](https://detectionlab.network/) <-- One of the easiest labs to setup on host, actual steps you need to take are less than 5 minutes
+  - [Azure Sentinel2GO](https://github.com/OTRF/Azure-Sentinel2Go) <-- Awesome newer lab released in last year with logging setup, VMs and SIEM without limits, oh and "one click deploy"
+    - [SimuLand](https://github.com/Azure/SimuLand) <-- Building off Azure Sentinel2GO, Simuland requires alittle more setup but is geared toward giving scenarios of attacks, this is cool and will be even better with more releases
 
 ## General IT
   ### Linux
