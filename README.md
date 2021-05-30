@@ -41,6 +41,8 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
 
 ### Web Application Testing
 I defintely recommend first before using the tools section learn the techniques in the owasp top 10 and manually exploit first, tools can help but many times you may not be able to use them in rule of engagement with bug bounties.
+- [Making Burp Suite Macros](https://akshita-infosec.medium.com/burp-macros-what-why-how-151df8901641)
+
 #### Books
 - [Tangled Web](https://www.amazon.com/Tangled-Web-Securing-Modern-Applications/dp/1593273886)
 - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
