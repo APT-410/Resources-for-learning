@@ -22,10 +22,14 @@ Hi this is just a simple set of learning paths and tricks I found to help me, th
   ### Javascript
   -[Hacking javascript - "untrusted"](https://alexnisnevich.github.io/untrusted/)
   
+  ### Machine Learning / Deep learning / Neural networks
+  -[Fast.ai (pyTorch Deep learning)](https://www.fast.ai/)
+  
   ### Other
   - [Regular Expressions - testing: regex101](https://regex101.com/)
   - [Decode / Encode: Cyberchef.io](https://gchq.github.io/CyberChef/) 
   - [Development enviroment - IDE/Text editor (VScode)](https://code.visualstudio.com/) <-- Theres other text editors and IDEs like Atom, sublime, eclipse. VScode is my favorite as extensions make adding new programming languages easy and add on almost anything else you can imagine to help from running a live server, debugging, dev containers, live share "peer" program, docker to build and ship your apps.
+  - [Visual Studio Dev Essentials](https://visualstudio.microsoft.com/dev-essentials/) <-- This has free azure credits, trial subscriptions like M365 E5, downloads for Windows 10, Windows server, and SQL server, certifications and more (check out too if your company already has a paid subscription you get more cool stuff like Visual studio enterprise, more monthly credits etc)
 
 ## Red Team / Pen Test
 ### General
