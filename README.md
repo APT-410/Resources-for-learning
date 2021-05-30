@@ -78,6 +78,9 @@ I defintely recommend first before using the tools section learn the techniques 
   #### Network
   ### Security Engineering
   ### Detection Engineering
+  - [Uncoder.io](https://uncoder.io/) <-- Convert Sigma rules to your SIEM's language
+  - [SOC Prime](https://my.socprime.com/tdm/) <-- SIGMA detection rules (free/paid content)
+  - [SIGMA Git Repo](https://github.com/SigmaHQ/sigma) <-- A lot of SIGMA Detection rules, templates to make your own, guidance, and tools
   
 ## Purple Team
 
