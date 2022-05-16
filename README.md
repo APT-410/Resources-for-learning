@@ -75,6 +75,7 @@ I defintely recommend first before using the tools section learn the techniques 
   #### Reverse Engineering
   - [Malware.re](https://class.malware.re/) <-- Reverse engineering class and content
   - [Malwareunicorn](https://malwareunicorn.org/#/workshops) <-- Setup of lab and good intro to reversing
+  - [CCDCOE - Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf) <-- Good content for intro to alot of RE concepts for practical analysis
   #### Host 
   #### Network
   ### Security Engineering
