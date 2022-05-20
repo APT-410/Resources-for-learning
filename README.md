@@ -76,6 +76,11 @@ I defintely recommend first before using the tools section learn the techniques 
   - [Malware.re](https://class.malware.re/) <-- Reverse engineering class and content
   - [Malwareunicorn](https://malwareunicorn.org/#/workshops) <-- Setup of lab and good intro to reversing
   - [CCDCOE - Malware Reverse Engineering Handbook](https://ccdcoe.org/uploads/2020/07/Malware_Reverse_Engineering_Handbook.pdf) <-- Good content for intro to alot of RE concepts for practical analysis
+  ##### Sandboxing / Analysis
+  - [Any.run](https://malwareunicorn.org/#/workshops](https://any.run/))
+  - [Joe sandbox]
+  - [Virus Total]
+  - [Urlscan.io](https://urlscan.io/) <- look up websites
   #### Host
   - [Eric Zimmerman's Tools](https://ericzimmerman.github.io/#!index.md) <-- Excellent for looking through alot of artifacts you may collect off a host using a collection agent like KAPE
   - 
